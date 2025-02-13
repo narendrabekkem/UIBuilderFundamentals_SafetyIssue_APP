@@ -5,6 +5,7 @@
         <advanced>true</advanced>
         <applies_to/>
         <condition/>
+        <controlled_by_refs/>
         <decision_type>allow</decision_type>
         <description>ACL for databroker: Image for record header</description>
         <local_or_existing/>

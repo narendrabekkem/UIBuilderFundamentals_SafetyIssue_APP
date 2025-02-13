@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-13 20:29:02</sys_created_on>
-        <sys_id>ac12ecf79fe312107f44c4e66124abbd</sys_id>
+        <sys_id>92d47eb3c3ef9a10cf1bb11ed40131e4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_safety_issue</sys_name>
         <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
-        <sys_update_name>ua_table_licensing_config_ac12ecf79fe312107f44c4e66124abbd</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_92d47eb3c3ef9a10cf1bb11ed40131e4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-10-13 20:29:02</sys_updated_on>
     </ua_table_licensing_config>

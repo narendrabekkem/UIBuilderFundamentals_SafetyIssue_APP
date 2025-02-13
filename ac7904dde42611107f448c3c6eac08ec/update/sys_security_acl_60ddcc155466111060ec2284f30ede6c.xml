@@ -5,6 +5,7 @@
         <advanced>true</advanced>
         <applies_to/>
         <condition/>
+        <controlled_by_refs/>
         <decision_type>allow</decision_type>
         <description>ACL for Data broker: Content set evam broker - My Tasks</description>
         <local_or_existing/>

@@ -1155,6 +1155,7 @@
     }
   }
 } ]</state_properties>
+        <style_config/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-10-13 20:44:02</sys_created_on>

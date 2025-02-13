@@ -27,6 +27,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>safety_portal_icon.png</file_name>
         <hash>55a881ccac48db42b390b4d2bc98e8c3fc465427ea4a0389d7c0af8e805f9ed7</hash>
         <image_height>172</image_height>

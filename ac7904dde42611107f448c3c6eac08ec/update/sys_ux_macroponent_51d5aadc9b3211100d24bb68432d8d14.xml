@@ -124,6 +124,7 @@
         <schema_version>1.0.0</schema_version>
         <state_persistence_config/>
         <state_properties>[ ]</state_properties>
+        <style_config/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-23 15:29:56</sys_created_on>

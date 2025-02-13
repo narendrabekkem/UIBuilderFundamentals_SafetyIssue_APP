@@ -49,19 +49,20 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/svg+xml</content_type>
+        <encryption_context/>
         <file_name>safety_logo.svg</file_name>
         <hash>464f37f8ddd91e88eaa4d4699abb7bfb88bfc5c84c5b880ab0339d801880e255</hash>
         <image_height/>
         <image_width/>
         <size_bytes>3367</size_bytes>
         <size_compressed>1565</size_compressed>
-        <state/>
+        <state>available</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-13 20:24:54</sys_created_on>
         <sys_id>4579049de42611107f448c3c6eac08de</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-29 14:45:37</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>narendrabekkem</sys_updated_by>
+        <sys_updated_on>2025-02-13 05:06:26</sys_updated_on>
         <table_name>sys_app</table_name>
         <table_sys_id>ac7904dde42611107f448c3c6eac08ec</table_sys_id>
     </sys_attachment>

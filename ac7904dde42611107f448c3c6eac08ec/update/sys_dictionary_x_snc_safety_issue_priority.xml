@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-13 20:29:03</sys_created_on>
-        <sys_id>7d6a4411e46611107f448c3c6eac08ea</sys_id>
         <sys_name>Priority</sys_name>
         <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
         <sys_policy/>
