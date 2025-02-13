@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">a036f6b3c323da10cf1bb11ed40131d8</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_snc_safety_issue","fixedQuery":"","listTitle":"My Work","columns":"","query":"assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>18</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>narendrabekkem</sys_created_by>
+        <sys_created_on>2025-02-13 05:11:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>70363ab3c323da10cf1bb11ed4013113</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_update_name>par_dashboard_widget_70363ab3c323da10cf1bb11ed4013113</sys_update_name>
+        <sys_updated_by>narendrabekkem</sys_updated_by>
+        <sys_updated_on>2025-02-13 05:11:50</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">ac7904dde42611107f448c3c6eac08ec</application>
+        <file_path/>
+        <instance_id>56c745adeb7e8e10c040fddacad0cd15</instance_id>
+        <instance_name>dev275146</instance_name>
+        <name>par_dashboard_widget_70363ab3c323da10cf1bb11ed4013113</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">a036f6b3c323da10cf1bb11ed40131d8</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_snc_safety_issue","fixedQuery":"","listTitle":"My Work","columns":"","query":"assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"noDebounce":"","contextMenuActions":[]}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>narendrabekkem</sys_created_by><sys_created_on>2025-02-13 05:11:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>70363ab3c323da10cf1bb11ed4013113</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package><sys_policy/><sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope><sys_update_name>par_dashboard_widget_70363ab3c323da10cf1bb11ed4013113</sys_update_name><sys_updated_by>narendrabekkem</sys_updated_by><sys_updated_on>2025-02-13 05:11:50</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>819400026</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0d45be37c3ef9a10cf1bb11ed40131a5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>narendrabekkem</sys_created_by>
+        <sys_created_on>2025-02-13 05:11:50</sys_created_on>
+        <sys_id>38363ab3c323da10cf1bb11ed4013115</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194fdb871380000001</sys_recorded_at>
+        <sys_updated_by>narendrabekkem</sys_updated_by>
+        <sys_updated_on>2025-02-13 05:11:50</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>3c363ab33a23da1013465fa45c2e0f14</update_guid>
+        <update_guid_history>3c363ab33a23da1013465fa45c2e0f14:819400026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">78363ab3c323da10cf1bb11ed401315e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>narendrabekkem</sys_created_by>
+        <sys_created_on>2025-02-13 05:11:51</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>28e8ef23d0034c728465819340369604</sys_id>
+        <sys_metadata>70363ab3c323da10cf1bb11ed4013113</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_scope_delete display_value="">2d00b60413884324b9472eeae5982069</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_70363ab3c323da10cf1bb11ed4013113</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_70363ab3c323da10cf1bb11ed4013113">38363ab3c323da10cf1bb11ed4013115</sys_update_version>
+        <sys_updated_by>narendrabekkem</sys_updated_by>
+        <sys_updated_on>2025-02-13 05:11:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
